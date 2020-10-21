@@ -1,0 +1,16 @@
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\adenisiof\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\adenisiof\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\adenisiof\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\BankSystem.Welcome.resources
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\BankSystem.Main.resources
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\BankSystem.MyAccount.resources
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\Bank.GUI.Transfer.resources
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\Bank.GUI.back.resources
+C:\Users\adenisiof\source\repos\Bank\Bank\obj\Debug\Bank.GUI.Payment.resources
+C:\Users\adenisiof\source\repos\Bank\Bank\bin\Debug\Data\XMLData.xml
